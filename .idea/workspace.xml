@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd4c0e05-8180-4826-8bdc-4ed747e34521" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New/Demo/ExcerciseTriangles.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/New/Demo/Exercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo/Perimeter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo/Surface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +41,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PeterNicolov\IdeaProjects\New\src\Demo" />
       <recent name="C:\Users\PeterNicolov\IdeaProjects\New" />
     </key>
   </component>
