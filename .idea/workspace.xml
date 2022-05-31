@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd4c0e05-8180-4826-8bdc-4ed747e34521" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/DivisibleBy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/EligibleToWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/ForLoopReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +24,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="294aDj8huxHA5Dp3OyB4c897Mhw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,7 +50,33 @@
       <recent name="C:\Users\PeterNicolov\IdeaProjects\New" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExcerciseTriangles">
+  <component name="RunManager" selected="Application.ForLoopReverse">
+    <configuration name="DivisibleBy5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.DivisibleBy5" />
+      <module name="New" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EligibleToWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.EligibleToWork" />
+      <module name="New" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExcerciseTriangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo.ExcerciseTriangles" />
       <module name="New" />
@@ -72,34 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Perimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo.Perimeter" />
-      <module name="New" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Surface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo.Surface" />
-      <module name="New" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo.Variables" />
+    <configuration name="ForLoopReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo.ForLoopReverse" />
       <module name="New" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoopReverse" />
+        <item itemvalue="Application.DivisibleBy5" />
+        <item itemvalue="Application.EligibleToWork" />
         <item itemvalue="Application.ExcerciseTriangles" />
         <item itemvalue="Application.Exercise" />
-        <item itemvalue="Application.Surface" />
-        <item itemvalue="Application.Perimeter" />
-        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -142,5 +147,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
